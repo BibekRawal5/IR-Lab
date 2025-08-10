@@ -1,1 +1,1 @@
-# Java-Lab
+# Information Retreival-Lab
