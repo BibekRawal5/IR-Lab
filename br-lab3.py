@@ -10,5 +10,5 @@ def term_frequency(filename):
     for word, count in freq.items():
         print(word, ":", count)
 
-file = "sample.txt"
+file = "br.txt"
 term_frequency(file)
