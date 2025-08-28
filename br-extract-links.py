@@ -11,6 +11,6 @@ def extract_links(url, outfile):
             f.write(link + "\n")
     print("Total links found:", len(links))
 
-url = "https://bibek.rawal.com.np"
+url = "https://bibekrawal.com.np"
 outfile = "br-links.txt"
 extract_links(url, outfile)
