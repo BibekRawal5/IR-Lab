@@ -5,5 +5,5 @@ def read_file(filename):
     print("File Content:\n", text)
     print("Total Words:", len(words))
 
-file = "sample.txt"
+file = "br.txt"
 read_file(file)
